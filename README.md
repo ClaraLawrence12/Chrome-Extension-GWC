@@ -1,2 +1,2 @@
 # Chrome Extension GWC
-# testing testing 123
+# testing testing 123 (-Clara)
